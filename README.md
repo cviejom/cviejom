@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cviejom
-- 👀 I’m interested in mathematical optimization, machine learning and AI
-- 🌱 I’m currently learning Machine Learning, Python as main programming lenguage, Tensorflow and other frameworks
+- 👋 Hi, I’m Carlos,
+- 👀 I’m interested in mathematical optimization, machine learning and artificial intelligence
+- 🌱 I’m currently studying machine learning, python as main programming lenguage and Tensorflow plus other frameworks
 - 💞️ I’m looking to collaborate on interesting mathematical optimization projects or machine learning
 - 📫 How to reach me ...
 
